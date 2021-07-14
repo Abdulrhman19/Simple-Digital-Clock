@@ -1,0 +1,25 @@
+body {
+    background-color: #2e614b;
+    color: rgb(240, 255, 240);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
+
+h1 span {
+    padding: 40px;
+    border-radius: 50px;
+    background: #2e614b;
+    box-shadow:  20px 20px 60px #275240,
+                 -20px -20px 60px #357056;
+}
+
+.header {
+    text-align: center;
+    font-size: 100px;
+}
